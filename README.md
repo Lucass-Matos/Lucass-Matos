@@ -1,16 +1,15 @@
-## Hi there 👋
+# Meu Primeiro Repositório 🚀
 
-<!--
-**Lucass-Matos/Lucass-Matos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este repositório foi criado como parte de uma atividade acadêmica do curso de **Análise e Desenvolvimento de Sistemas** na **SPTech School**.  
+O objetivo é praticar o uso do **Git** e do **GitHub**, entendendo o fluxo básico de criação, versionamento e publicação de projetos.
 
-Here are some ideas to get you started:
+## 📚 Sobre mim
+Sou Lucas, estudante do primeiro semestre de ADS, explorando os fundamentos da programação e do desenvolvimento de sistemas.  
+ busco compreender a lógica por trás da tecnologia e aplicá-la na prática. Este repositório marca o começo desta jornada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias em aprendizado
+- HTML
+- JavaScript
+- SQL
+
+
